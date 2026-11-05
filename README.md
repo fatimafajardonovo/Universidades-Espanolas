@@ -1,14 +1,6 @@
-# Proyecto final
+## Proyecto final: Portal de Universidades Españolas
 
-## El problema
-
-La información del sistema universitario español se encuentra fragmentada en decenas de fuentes diferentes, lo que dificulta que los estudiantes puedan acceder a ella y tomar decisiones informadas sobre su futuro académico.
-Funcionalidades principales
-
-- Directorios por comunidad autónoma con mapas interactivos.
-- Rankings internacionales explicados y comparados.
-- Guías editoriales para cada etapa del proceso universitario.
-- Fichas detalladas de cada institución.
+Proyecto final de CEI, desarrollado para la asignatura de Diseño Web. Consiste en la creación de una plataforma web que centraliza la información del sistema universitario español, combinando diseño responsive, estructura semántica e interactividad mediante HTML5, CSS3 y JavaScript nativo.
 
 ---
 
