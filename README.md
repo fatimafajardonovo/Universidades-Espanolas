@@ -55,12 +55,3 @@ Fuente de recursos visuales utilizada para incorporar imágenes representativas 
 ### Claude
 Herramienta de inteligencia artificial utilizada como apoyo en la revisión y mejora de los comentarios del código, facilitando su comprensión y legibilidad.
 
----
-
-## Estructura de páginas
-
-El proyecto se organiza en diferentes secciones para facilitar la navegación y el acceso a la información.
-
-| Página | Descripción |
-|---|---|
-| **Home** | Mapa SVG interactivo
